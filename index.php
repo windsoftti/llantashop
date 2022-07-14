@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>hola mexico lindo</h1>
 </body>
 </html>
